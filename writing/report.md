@@ -1,4 +1,4 @@
-# Report by Add Your Names Here
+# Report by Titus Smith, Luke Barker, Jack Turner
 
 ## Planning, due on January 27th, 2023 by 9:30am
 
@@ -10,11 +10,12 @@
 
 ### Hardware 
 
-TODO:
 
 - Arduino board
 
-- in an itemized list, specify specific sensors, motors, etc. to be used in your project
+- Servo Motor <https://www.amazon.com/Treedix-MG996R-Servo-High-Torque-Helicopter/dp/B08743N181/ref=sr_1_5?keywords=tower+pro+mg996r&qid=1674679467&sr=8-5>
+
+- Motion Sensor <https://www.sparkfun.com/products/15569>
 
 ## Arduino Project
 
