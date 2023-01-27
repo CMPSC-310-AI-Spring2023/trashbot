@@ -19,6 +19,10 @@
 
 - Motion Sensor <https://www.sparkfun.com/products/15569>
 
+- Tape (if we go with cardboard box)
+
+- Either a Cardboard Box or a 3D printed box
+
 ## Arduino Project
 
 TODO:
