@@ -6,20 +6,21 @@
 
 | Timeline  | Tasks |
 | ----------- | ----------- |
+|   Jan 31    |    Work on creating program |
 |   Feb 1    |    Have an opperating code and start the hardware configuration |
-|   Feb 3    |    Have trash can built |
-|   Feb 7    |    Add the completed hardware to the trashcan and have a working project |
+|   Feb 3    |    Have trash can built, the phsyical structure of the trashcan, and start on adding hardware |
+|   Feb 7    |    Add the completed hardware to the trashcan and work on adding code |
 
 ### Hardware 
 
 
-- Arduino board
+- Arduino board (Have)
 
-- Servo Motor <https://www.amazon.com/Treedix-MG996R-Servo-High-Torque-Helicopter/dp/B08743N181/ref=sr_1_5?keywords=tower+pro+mg996r&qid=1674679467&sr=8-5>
+- Servo Motor <https://www.amazon.com/Treedix-MG996R-Servo-High-Torque-Helicopter/dp/B08743N181/ref=sr_1_5?keywords=tower+pro+mg996r&qid=1674679467&sr=8-5> (Need)
 
-- Motion Sensor <https://www.sparkfun.com/products/15569>
+- Motion Sensor <https://www.sparkfun.com/products/15569> (Need)
 
-- Tape (if we go with cardboard box)
+- Tape (if we go with cardboard box) (Need)
 
 - Either a Cardboard Box or a 3D printed box
 
