@@ -6,7 +6,9 @@
 
 | Timeline  | Tasks |
 | ----------- | ----------- |
-|   dates    |    task 1   |
+|   Feb 1    |    Have an opperating code and start the hardware configuration |
+|   Feb 3    |    Have trash can built |
+|   Feb 7    |    Add the completed hardware to the trashcan and have a working project |
 
 ### Hardware 
 
@@ -21,6 +23,7 @@
 
 TODO:
 Describe the application you have chosen to develop and provide a motivation for why it is a useful application. Include  references of all sources you have used throughout this project (URLs are sufficient).
+
 
 ## Agent
 
