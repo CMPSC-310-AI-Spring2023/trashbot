@@ -19,11 +19,11 @@ void loop()
 digitalWrite(trigPin, HIGH);
 delay(1);
 digitalWrite(trigPin, LOW);
-// Measure the pulse input in echo pin
+// Measure pulse input in echo pin
 duration = pulseIn(echoPin, HIGH);
-// Distance is half the duration devided by 29.1 (from datasheet)
+// Distance is half duration devided by 29.1
 distance = (duration/2) / 29.1;
-// if distance less than 0.5 meter and more than 0 (0 or less means over range)
+// if distance less than 0.5 meter and more than 0
 if (distance <= 50 && distance >= 0) {
   servo.write(50);
     delay(3000);
@@ -31,7 +31,7 @@ if (distance <= 50 && distance >= 0) {
 
   servo.write(160);
 }
-// Waiting 60 ms won't hurt any one
+// Delay time by 60 seconds to provide a buffer 
 delay(60);
 }﻿
 
