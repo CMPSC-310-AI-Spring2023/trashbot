@@ -27,7 +27,9 @@
 
 Describe the application you have chosen to develop and provide a motivation for why it is a useful application. Include  references of all sources you have used throughout this project (URLs are sufficient).
 
-The application that we have chosen to develop is a motion sensored trash can. It is a useful application because you can use it in the real world and it is similar to the trash cans that you open with your feet. This trash can allows you to not have to do any extra work and just lets you throw stuff away.
+The application that we have chosen to develop is a motion censored trash can. It is a useful application because you can use it in the real world and it is similar to the trash cans that you open with your feet. This trash can allows you to not have to do any extra work and just lets you throw stuff away.
+
+Here is the link to the website we used to help complete the wiring and create the code: <https://projecthub.arduino.cc/ashraf_minhaj/c81effad-d583-40bb-9d20-808803efbdf2>
 
 ## Agent
 
