@@ -7,8 +7,8 @@
 | Timeline  | Tasks |
 | ----------- | ----------- |
 |   Jan 31    |    Work on creating program |
-|   Feb 1    |    Have an opperating code and start the hardware configuration |
-|   Feb 3    |    Have trash can built, the phsyical structure of the trashcan, and start on adding hardware |
+|   Feb 1    |    Have an operating code and start the hardware configuration |
+|   Feb 3    |    Have trash can built, the physical structure of the trashcan, and start on adding hardware |
 |   Feb 7    |    Add the completed hardware to the trashcan and work on adding code |
 
 ### Hardware
