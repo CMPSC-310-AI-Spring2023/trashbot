@@ -43,7 +43,6 @@ After working on this lab, the challenge of getting the code to work and figurin
 
 ## Ethical Benefits and Implications
 
-TODO:
 In this section, drawing on class discussions and readings, answer the following questions
 
 1. What entities, businesses, organizations do you envision developing the type of the application you have chosen to develop?
@@ -60,9 +59,13 @@ The only person who would not be allowed to use this technology would be someone
 
 4. How can the application developed in this lab cause harm?
 
+This application could cause harm because it might not be ethically sound. This agent requries movement and some people might not be able to use it they way that it is intended to be used.
+
 5. What solutions could be implemented to avoid the harm or to fix the harm described above?
 
+A solution to this harm would be to add other types of sensors so that it is usable by more people. By adding more sensors, it would allow people to use it using any of the sensors that are available.
 ## Team Work
 
-TODO:
 Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
+
+For this project, our team working strategy was to give members specific tasks and then help each other whenever we needed help with these tasks. Jack did most of the work when it came to the code and making minor changes to it so that it would do what we wanted it to. Titus and Luke worked on putting the box together and getting the trash can to work. Titus did the wiring part and mostly worked with the arduino board and got that to connect with our sensors and our motor. Luke worked on the box and putting all of it together to get it to actually be a working trash can agent.
