@@ -35,6 +35,8 @@ Here is the link to the website we used to help complete the wiring and create t
 Below is an image from the tutorial that we used to base our wiring off of. The only difference we had was the port that has two wirings going into a singular port, we split those up and put the motor on the port with the lesser voltage.
 
 ![Wiring from the Tutorial](https://projects.arduinocontent.cc/e6d20b00-ba45-4847-96c0-6fe0df92bb09.jpg)
+![Box](box.jpg)
+![Wires](wires.jpg)
 
 ## Agent
 
