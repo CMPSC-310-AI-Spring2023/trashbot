@@ -35,7 +35,13 @@ Here is the link to the website we used to help complete the wiring and create t
 Below is an image from the tutorial that we used to base our wiring off of. The only difference we had was the port that has two wirings going into a singular port, we split those up and put the motor on the port with the lesser voltage.
 
 ![Wiring from the Tutorial](https://projects.arduinocontent.cc/e6d20b00-ba45-4847-96c0-6fe0df92bb09.jpg)
+
+Below is an image of what our final project looks like from the outside:
+
 ![Box](box.jpg)
+
+Below is an image of all of the connections we made between the motor and the sensor to the Arduino board. This is a little messy which is why we included the tutorial photo of the wires.
+
 ![Wires](wires.jpg)
 
 ## Agent
