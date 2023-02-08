@@ -32,7 +32,11 @@ The application that we have chosen to develop is a motion censored trash can. T
 Here is the link to the website we used to help complete the wiring and create the code:
 <https://projecthub.arduino.cc/ashraf_minhaj/c81effad-d583-40bb-9d20-808803efbdf2>
 
-![Outside of Image](C://Users/titus/Downloads/IMG_0142.jpg)
+Below is an image from the tutorial that we used to base our wiring off of. The only difference we had was the port that has two wirings going into a singular port, we split those up and put the motor on the port with the lesser voltage.
+
+![Wiring from the Tutorial](https://projects.arduinocontent.cc/e6d20b00-ba45-4847-96c0-6fe0df92bb09.jpg)
+
+![Outside of Agent](C:\Users\titus\Downloads\IMG_0142.jpg)
 
 ## Agent
 
