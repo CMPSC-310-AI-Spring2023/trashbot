@@ -27,24 +27,24 @@
 
 Describe the application you have chosen to develop and provide a motivation for why it is a useful application. Include  references of all sources you have used throughout this project (URLs are sufficient).
 
-The application that we have chosen to develop is a motion censored trash can. It is a useful application because you can use it in the real world and it is similar to the trash cans that you open with your feet. This trash can allows you to not have to do any extra work and just lets you throw stuff away.
+The application that we have chosen to develop is a motion censored trash can. This trashcan picks up motion in front of the  trashcan and then opens the lid for the user to throw away their garbage. It is a useful application because you can use it in the real world and it is similar to the trash cans that you open with your feet. This trash can allows you to not have to do any extra work and just lets you throw stuff away.
 
 Here is the link to the website we used to help complete the wiring and create the code:
 <https://projecthub.arduino.cc/ashraf_minhaj/c81effad-d583-40bb-9d20-808803efbdf2>
 
-![Outside of Image](\Users\titus\Downloads\IMG_0142.jpg)
+![Outside of Image](C://Users/titus/Downloads/IMG_0142.jpg)
 
 ## Agent
 
 Explain the characteristics/attributes of your agent, what makes it an agent (within the discussed course content), what makes it rational, what type of an agent it is, and what is its environment task (PEAS).
 
-Based on the definition of an agent, our trash can acts as an agent because it is acting based on its environment. Our trash can has sensors that allow it to react to the environment. It is self-aware because it has the motion sensors in the front and it is reactive and social behavior. These are all characteristics of agents that our trash can displays when being used. Our agent is a simple reflex agent because all it is doing is using the motion sensors to open the trash can with human interaction. Our agent would not be considered rational because it is only using sensors and isn't acting based on performance measures. The performance measure is how well the motor opens up the trash can and how safe it is. The environment would be in peoples home's or rooms where the trash can is. The actuators would be the lever that opens up the trash can and the motor that makes the lever work. The sensors would be the motion sensors that are in the front that open the trash can.
+Based on the definition of an agent, our trash can acts as an agent because it is acting based on its environment. Our trash can has sensors that allow it to react to the environment. It is self-aware because it has the motion sensors in the front and it is reactive and social behavior. These are all characteristics of agents that our trash can displays when being used. Our agent is a simple reflex agent because all it is doing is using the motion sensors to open the trash can with human interaction. Our agent would not be considered rational because it is only using sensors and isn't acting based on performance measures. The performance measure is how well the motor opens up the trash can and how safe it is. If the sensor is picking up motion when we want it to and then opens the trashcan efficiently, then that is a way we can evaluate the performance. The environment would be in peoples home's or rooms where the trash can is, and the area or situation right in front of the sensor. The actuators would be the lever that opens up the trash can, the motor that makes the lever work, all the wires, and the trashcan itself. The sensors would be the motion sensors that are in the front that open the trash can that pick up any motion.
 
 ## Challenges and Learning Experiences
 
 Discuss any challenges you have encountered during the work on this lab and  describe what have you learned.
 
-After working on this lab, the challenge of getting the code to work and figuring out how to put the trash can together helped us and taught us problem solving skills. It was a challenge to try and figure out how to change the code so that it could send the right signals to the motor to get it to turn the right way. It was also a challenge to try and put the trash bot together and figure out where to put the arduino board and the sensor and motor.
+After working on this lab, the challenge of getting the code to work and figuring out how to put the trash can together helped us and taught us problem solving skills. It was a challenge to try and figure out how to change the code so that it could send the right signals to the motor to get it to turn the right way. We had an issue that we ran into when we started because we were using the wrong motor, and the tutorial had an interesting connection of the wires, so we had to work through that issue. We tries a new motor and wires in different ports and was able to get our agent to work. It was also a challenge to try and put the trash bot together and figure out where to put the Arduino board and the sensor and motor.
 
 ## Ethical Benefits and Implications
 
@@ -64,7 +64,7 @@ The only person who would not be allowed to use this technology would be someone
 
 4. How can the application developed in this lab cause harm?
 
-This application could cause harm because it might not be ethically sound. This agent requries movement and some people might not be able to use it they way that it is intended to be used.
+This application could cause harm because it might not be ethically sound. This agent requires movement and some people might not be able to use it they way that it is intended to be used.
 
 5. What solutions could be implemented to avoid the harm or to fix the harm described above?
 
@@ -74,4 +74,4 @@ A solution to this harm would be to add other types of sensors so that it is usa
 
 Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
 
-For this project, our team working strategy was to give members specific tasks and then help each other whenever we needed help with these tasks. Jack did most of the work when it came to the code and making minor changes to it so that it would do what we wanted it to. Titus and Luke worked on putting the box together and getting the trash can to work. Titus did the wiring part and mostly worked with the arduino board and got that to connect with our sensors and our motor. Luke worked on the box and putting all of it together to get it to actually be a working trash can agent.
+For this project, our team working strategy was to give members specific tasks and then help each other whenever we needed help with these tasks. Jack did most of the work when it came to the code and making minor changes to it so that it would do what we wanted it to. Titus and Luke worked on putting the box together and getting the trash can to work. Titus did the wiring part and mostly worked with the Arduino board and got that to connect with our sensors and our motor. Luke worked on the box and putting all of it together to get it to actually be a working trash can agent.
