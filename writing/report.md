@@ -13,7 +13,6 @@
 
 ### Hardware
 
-
 - Arduino board (Have)
 
 - Servo Motor <https://www.amazon.com/Treedix-MG996R-Servo-High-Torque-Helicopter/dp/B08743N181/ref=sr_1_5?keywords=tower+pro+mg996r&qid=1674679467&sr=8-5> (Need)
