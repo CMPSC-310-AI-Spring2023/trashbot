@@ -36,8 +36,6 @@ Below is an image from the tutorial that we used to base our wiring off of. The 
 
 ![Wiring from the Tutorial](https://projects.arduinocontent.cc/e6d20b00-ba45-4847-96c0-6fe0df92bb09.jpg)
 
-![Outside of Agent](C:\Users\titus\Downloads\IMG_0142.jpg)
-
 ## Agent
 
 Explain the characteristics/attributes of your agent, what makes it an agent (within the discussed course content), what makes it rational, what type of an agent it is, and what is its environment task (PEAS).
