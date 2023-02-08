@@ -35,6 +35,7 @@ The application that we have chosen to develop is a motion sensored trash can. I
 Explain the characteristics/attributes of your agent, what makes it an agent (within the discussed course content), what makes it rational, what type of an agent it is, and what is its environment task (PEAS).
 
 Based on the definition of an agent, our trash can acts as an agent because it is acting based on its environment. Our trash can has sensors that allow it to react to the environment. It is self-aware because it has the motion sensors in the front and it is reactive and social behavior. These are all characteristics of agents that our trash can displays when being used. Our agent is a simple reflex agent because all it is doing is using the motion sensors to open the trash can with human interaction. Our agent would not be considered rational because it is only using sensors and isn't acting based on performance measures. The performance measure is how well the motor opens up the trash can and how safe it is. The environment would be in peoples home's or rooms where the trash can is. The actuators would be the lever that opens up the trash can and the motor that makes the lever work. The sensors would be the motion sensors that are in the front that open the trash can.
+
 ## Challenges and Learning Experiences
 
 Discuss any challenges you have encountered during the work on this lab and  describe what have you learned.
@@ -64,6 +65,7 @@ This application could cause harm because it might not be ethically sound. This 
 5. What solutions could be implemented to avoid the harm or to fix the harm described above?
 
 A solution to this harm would be to add other types of sensors so that it is usable by more people. By adding more sensors, it would allow people to use it using any of the sensors that are available.
+
 ## Team Work
 
 Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
