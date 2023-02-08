@@ -11,7 +11,7 @@
 |   Feb 3    |    Have trash can built, the phsyical structure of the trashcan, and start on adding hardware |
 |   Feb 7    |    Add the completed hardware to the trashcan and work on adding code |
 
-### Hardware 
+### Hardware
 
 
 - Arduino board (Have)
@@ -26,19 +26,20 @@
 
 ## Arduino Project
 
-TODO:
 Describe the application you have chosen to develop and provide a motivation for why it is a useful application. Include  references of all sources you have used throughout this project (URLs are sufficient).
 
+The application that we have chosen to develop is a motion sensored trash can. It is a useful application because you can use it in the real world and it is similar to the trash cans that you open with your feet. This trash can allows you to not have to do any extra work and just lets you throw stuff away.
 
 ## Agent
 
-TODO:
 Explain the characteristics/attributes of your agent, what makes it an agent (within the discussed course content), what makes it rational, what type of an agent it is, and what is its environment task (PEAS).
 
+Based on the definition of an agent, our trash can acts as an agent because it is acting based on its environment. Our trash can has sensors that allow it to react to the environment. It is self-aware because it has the motion sensors in the front and it is reactive and social behavior. These are all characteristics of agents that our trash can displays when being used. Our agent is a simple reflex agent because all it is doing is using the motion sensors to open the trash can with human interaction. Our agent would not be considered rational because it is only using sensors and isn't acting based on performance measures. The performance measure is how well the motor opens up the trash can and how safe it is. The environment would be in peoples home's or rooms where the trash can is. The actuators would be the lever that opens up the trash can and the motor that makes the lever work. The sensors would be the motion sensors that are in the front that open the trash can.
 ## Challenges and Learning Experiences
 
-TODO:
-Discuss any challenges you have encountered during the work on this lab and  describe what have you learned. 
+Discuss any challenges you have encountered during the work on this lab and  describe what have you learned.
+
+After working on this lab, the challenge of getting the code to work and figuring out how to put the trash can together helped us and taught us problem solving skills. It was a challenge to try and figure out how to change the code so that it could send the right signals to the motor to get it to turn the right way. It was also a challenge to try and put the trash bot together and figure out where to put the arduino board and the sensor and motor.
 
 ## Ethical Benefits and Implications
 
@@ -47,9 +48,15 @@ In this section, drawing on class discussions and readings, answer the following
 
 1. What entities, businesses, organizations do you envision developing the type of the application you have chosen to develop?
 
+A business that I could envision developing something like this would be a tech company or a company that deals with trash of some sort. A trash company could make this trash can to come out with a new product that maybe could excite consumers. A tech company could create something like this because they have the technology to do so and it could also make them a lot of money.
+
 2. Who are the intended users of this technology?
 
+The intended users of this technology are anyone who uses a trashcan. This is an agent that can be used by anyone and it could be a new creative way to have a trashcan in any area.
+
 3. Who is not supposed to use this technology?
+
+The only person who would not be allowed to use this technology would be someone that would not use it how it is supposed to be used or break it. This technology should be allowed to everyone who is going to use it the right way.
 
 4. How can the application developed in this lab cause harm?
 
@@ -58,4 +65,4 @@ In this section, drawing on class discussions and readings, answer the following
 ## Team Work
 
 TODO:
-Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member. 
+Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
